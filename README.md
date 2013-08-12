@@ -1,4 +1,4 @@
-Sencha Touch 2 + PHP
+## Sencha Touch 2 + PHP
 
 login module simple example>
 
